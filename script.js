@@ -18,7 +18,7 @@ const names = [
   "Kenton",
 ];
 
-// Function to detele duplicates
+// Function to delete duplicates
 
 /*old way*/
 
